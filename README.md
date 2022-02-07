@@ -2,6 +2,11 @@
 
 The repository contains the DAG and the output CSV File which contains the output of the PythonOperator used in the DAG
 
+The WorkFlow of the DAG
+
+![image](https://user-images.githubusercontent.com/36558484/152839527-bc6dcd87-2a47-423f-a0b0-8b0bfd80ea5b.png)
+
+
 The DAG Contains 5 tasks
 1.Creation of Table
 2.Check whether the URL Endpoint is available
